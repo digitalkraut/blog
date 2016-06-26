@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on digitalkraut</title>
+    <link>https://www.digitalkraut.de/page/</link>
+    <description>Recent content in Pages on digitalkraut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Michael Kiessling</copyright>
+    <lastBuildDate>Sun, 26 Jun 2016 13:02:31 +0200</lastBuildDate>
+    <atom:link href="https://www.digitalkraut.de/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://www.digitalkraut.de/page/contact/</link>
+      <pubDate>Sun, 26 Jun 2016 13:02:31 +0200</pubDate>
+      
+      <guid>https://www.digitalkraut.de/page/contact/</guid>
+      <description>&lt;p&gt;Zertifizierter, öffentlicher GPG/PGP Schlüssel Michael Kießling&lt;/p&gt;
+
+&lt;p&gt;zum Versand von verschlüsselten E-mails an&lt;/br&gt;
+michael@digitalkraut.de&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+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
+mwOGx7DY
+=6SEd
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.digitalkraut.de/page/about/</link>
+      <pubDate>Sun, 26 Jun 2016 12:50:43 +0200</pubDate>
+      
+      <guid>https://www.digitalkraut.de/page/about/</guid>
+      <description>
+
+&lt;p&gt;Verantwortlich für Inhalt, Gestaltung und Umsetzung:&lt;/p&gt;
+
+&lt;p&gt;Michael Kießling&lt;/br&gt;
+München&lt;/br&gt;
+webmaster@digitalkraut.de&lt;/p&gt;
+
+&lt;h1 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-inhalt-des-onlineangebotes&#34;&gt;&lt;strong&gt;1. Inhalt des Onlineangebotes&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.
+Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-verweise-und-links&#34;&gt;&lt;strong&gt;2. Verweise und Links&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Bei direkten oder indirekten Verweisen auf fremde Webseiten (&amp;ldquo;Hyperlinks&amp;rdquo;), die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.
+Der Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-urheber-und-kennzeichenrecht&#34;&gt;&lt;strong&gt;3. Urheber- und Kennzeichenrecht&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.
+Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
+Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-datenschutz&#34;&gt;&lt;strong&gt;4. Datenschutz&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei Verstössen gegen dieses Verbot sind ausdrücklich vorbehalten.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-rechtswirksamkeit-dieses-haftungsausschlusses&#34;&gt;&lt;strong&gt;5. Rechtswirksamkeit dieses Haftungsausschlusses&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

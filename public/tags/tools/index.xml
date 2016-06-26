@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on digitalkraut</title>
+    <link>https://www.digitalkraut.de/tags/tools/</link>
+    <description>Recent content in Tools on digitalkraut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>Michael Kiessling</copyright>
+    <lastBuildDate>Sun, 14 Dec 2014 14:56:51 +0200</lastBuildDate>
+    <atom:link href="https://www.digitalkraut.de/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rmlint</title>
+      <link>https://www.digitalkraut.de/2014/12/14/rmlint/</link>
+      <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
+      
+      <guid>https://www.digitalkraut.de/2014/12/14/rmlint/</guid>
+      <description>&lt;p&gt;Früher war es der berüchtigte &lt;a href=&#34;http://kamelopedia.net/wiki/Diaabend&#34;&gt;Dia-Abend&lt;/a&gt; zu dem man Freunde und Bekannte nach einer großen Reise nötigte, heutzutage sind es hingegen digitale Fotos die via Beamer oder Laptop dem mehr oder weniger interessierten Publikum zum Besten gegeben werden. Ärgerlich wenn manche Fotos dabei doppelt oder dreifach auftauchen, zumal die gesamte Runde meist auf ein schnelles Ende hofft. Diese Duplikate entstehen oft daraus, dass man aus einem Sicherheitsdenken heraus lieber ein Backup der Speicherkarte mehr anfertigt, was an sich zwar eine gute Idee ist, aber bei unorganisierten Zeitgenossen zu Chaos in der Bildersammlung führen kann.
+An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglichkeit solche Duplikate schnell und sicher zu finden. Dazu bedient sich rmlint eines neuartigen Algorithmus, welcher in der Lage ist sehr große Datenmengen in kurzer Zeit zu durchsuchen. Hierdurch hebt sich rmlint von vergleichbarer Software ab. Natürlich ist mit rmlint noch mehr möglich, so kann es außer Bildern auch jede andere Art von doppelten Dateien und Verzeichnissen auffinden und wenn gewünscht entfernen. Ebenso können beschädigte symbolische Links aufgespürt werden.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://www.digitalkraut.de/img/rmlint.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Bei rmlint handelt es sich um freie Software, welche unter GPLv3 veröffentlicht wurde. Die Seite zum Projekt ist zu finden unter &lt;a href=&#34;https://github.com/sahib/rmlint/tree/develop&#34;&gt;rmlint&lt;/a&gt;. Es ist zur Zeit für Linux verfügbar, für andere Plattformen wie BSD und Darwin werden noch Mitstreiter gesucht.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

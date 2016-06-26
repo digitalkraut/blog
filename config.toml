@@ -1,0 +1,36 @@
+baseurl = "https://www.digitalkraut.de/"
+title = "digitalkraut"
+theme = "ghostwriter"
+languageCode = "de-DE"
+copyright = "Michael Kiessling"
+disqusShortname = "digitalkraut"
+
+[Author]
+    name = ""
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "digitalkraut"
+    description = "Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "NZ Blog"
+    url = "https://michlnzblog.wordpress.com/"
+    weight = 3
+
+[[menu.main]]
+    name = "GPG/PGP Kontakt"
+    url = "/page/contact/"
+    weight = 2
+
+[[menu.main]]
+    name = "Impressum"
+    url = "/page/about/"
+    weight = 1

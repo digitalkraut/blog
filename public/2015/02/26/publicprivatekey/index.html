@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Public-Key Kryptosystem &middot; </title>
+        <meta name="description" content="öffentliche und private Schlüssel?!">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="generator" content="Hugo 0.16" />
+        <meta name="robots" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/favicon.ico?v=kPP08pKEXB">
+        <link rel="stylesheet" href="https://www.digitalkraut.de/css/normalize.css">
+        <link rel="stylesheet" href="https://www.digitalkraut.de/css/highlight.css">
+        <link rel="stylesheet" href="https://www.digitalkraut.de/css/style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        
+
+        <div id="wrapper">
+            <header class="site-header">
+                <div class="container">
+                    <div class="site-title-wrapper">
+                        
+                            <h1 class="site-title">
+                                <a title="digitalkraut" href="https://www.digitalkraut.de/">digitalkraut</a>
+                            </h1>
+                        
+                        <a class="button-square" href="https://www.digitalkraut.de/index.xml"><i class="fa fa-rss"></i></a>
+                        
+                        
+                        
+                        
+                        
+                    </div>
+
+                    <ul class="site-nav">
+                        
+    <li class="site-nav-item">
+        <a title="Impressum" href="/page/about/">Impressum</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="GPG/PGP Kontakt" href="/page/contact/">GPG/PGP Kontakt</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="NZ Blog" href="https://michlnzblog.wordpress.com/">NZ Blog</a>
+    </li>
+
+                    </ul>
+                </div>
+            </header>
+
+            <div id="container">
+
+
+<div class="container">
+    <article class="post-container" itemscope="" itemtype="http://schema.org/BlogPosting">
+        <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Public-Key Kryptosystem</h1>
+    
+        <p class="post-description" itemprop="description">öffentliche und private Schlüssel?!</p>
+    
+    <p class="post-date">
+        <span>Published <time datetime="2015-02-26" itemprop="datePublished">Thu, Feb 26, 2015</time></span>
+        <span>by</span>
+        <span itemscope="" itemprop="author" itemtype="http://schema.org/Person">
+            <span itemprop="name">
+                <a href="https://google.com/&#43;XXX" itemprop="url" rel="author"></a>
+            </span>
+        </span>
+    </p>
+</header>
+
+        <div class="post-content clearfix" itemprop="articleBody">
+    
+
+    <p>Bei den Schlüsseln um welche es in diesem Beitrag geht, handelt es sich nicht um reale Schlüssel, die man anfassen kann, sondern um virtuelle Schlüssel.</p>
+<p>Der Hintergedanke ist, Daten nicht mit einem einzelnen Schlüssel zu verschlüsseln, sondern diesen Schlüssel aufzuteilen. So verwendet man zum Verschlüsseln den öffentlichen Schlüssel und zum Entschlüsseln den privaten Schlüssel. So können z.B. E-Mails von jemand anderen mit einem öffentlichen Schlüssel verschlüsselt werden und nur derjenige, der den privaten Schlüssel und die korrekte Passphrase (Passwort) weiss, kann den Text der E-Mail wieder sichtbar machen. Ein solches Schlüsselpaar kann sich jeder Computerbenutzer erstellen, jedoch besteht dabei die Gefahr das die Authentizität eines anderen nie mit Sicherheit festgestellt werden kann.</p>
+<p>Eine Möglichkeit die Sicherheit der Authentizität des Anderen oder der eigenen zu erhöhen ist, den öffentlichen Schlüssel von einer dritten Partei zertifizieren zu lassen. Solche sogenannten CA (Certificate Authority) gibt es viele im Internet, die meisten verlangen aber Geld für Ihre Dienste (z.B. Verisign). Einen anderen Weg beschreitet die Zertifizierungsstelle <a href="http://www.CAcert.de">CAcert</a>. Dort können kostenlos Zertifikate erstellt werden (z.B. <a href="http://de.wikipedia.org/wiki/GNU_Privacy_Guard">GPG/PGP</a> Zertifikat, Client- und Server Zertifikat). Doch wie bekommt die Zertifizierungsstelle mit, ob man wirklich der ist, für den man sich ausgibt? Dies geschieht über sog. Assurer, also Menschen die anhand von amtlichen Dokumenten die Identität und Vertrauenswürdigkeit feststellen. Das gesamte System nennt man "Web of Trust" was ungefähr "Netz des Vertrauens" bedeutet. In diesem "Web of Trust" kann man Punkte sammeln, umso mehr Personen die eigene Identität bestätigen, umso mehr Punkte erhält man. Ab 50 Punkten kann man Zertifikate der Klasse 3 erstellen.</p>
+<p>Sobald man 100 erreicht hat, kann man selbst durch einen kleinen Test Assurer werden, darf anfangs dann aber nur wenige Punkte selbst an andere verteilen. Erst mit zunehmenden Authentizitätsprüfungen dürfen mehr Punkte vergeben werden. Ich selbst habe den Aussurer Test kürzlich bestanden und darf daher andere Personen assuren, die dies wünschen. Dazu ist ein persönliches Treffen nötig und vorher muss ein gültiger Account bei <a href="http://www.CAcert.org">www.CAcert.org</a> angelegt werden.</p>
+
+</div>
+
+        <footer class="post-footer clearfix">
+    
+
+    <div class="share">
+        <a class="icon-twitter" href="http://twitter.com/share?text=Public-Key%20Kryptosystem&url=https%3a%2f%2fwww.digitalkraut.de%2f2015%2f02%2f26%2fpublicprivatekey%2f"
+            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <i class="fa fa-twitter"></i>
+            <span class="hidden">Twitter</span>
+        </a>
+
+        <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.digitalkraut.de%2f2015%2f02%2f26%2fpublicprivatekey%2f"
+            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+            <i class="fa fa-facebook"></i>
+            <span class="hidden">Facebook</span>
+        </a>
+
+        <a class="icon-google-plus" href="https://plus.google.com/share?url=https%3a%2f%2fwww.digitalkraut.de%2f2015%2f02%2f26%2fpublicprivatekey%2f"
+           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+           <i class="fa fa-google-plus"></i>
+            <span class="hidden">Google+</span>
+        </a>
+    </div>
+</footer>
+
+        
+    <div class="comments">
+        <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'digitalkraut';
+    var disqus_identifier = 'https:\/\/www.digitalkraut.de\/2015\/02\/26\/publicprivatekey\/';
+    var disqus_title = 'Public-Key Kryptosystem';
+    var disqus_url = 'https:\/\/www.digitalkraut.de\/2015\/02\/26\/publicprivatekey\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+
+    </article>
+</div>
+
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="site-title-wrapper">
+                    <h1 class="site-title">
+                        <a title="digitalkraut" href="https://www.digitalkraut.de/">digitalkraut</a>
+                    </h1>
+                    <a class="button-square button-jump-top js-jump-top" href="#">
+                        <i class="fa fa-angle-up"></i>
+                    </a>
+                </div>
+
+                <p class="footer-copyright">
+                    <span>&copy; 2016 / Powered by <a href="http://gohugo.io/">Hugo</a></span>
+                </p>
+                <p class="footer-copyright">
+                    <span><a href="https://github.com/roryg/ghostwriter">Ghostwriter theme</a> By <a href="http://jollygoodthemes.com">JollyGoodThemes</a></span>
+                    <span>/ <a href="https://github.com/jbub/ghostwriter">Ported</a> to Hugo By <a href="https://github.com/jbub">jbub</a></span>
+                </p>
+            </div>
+        </footer>
+
+        <script src="https://www.digitalkraut.de/js/jquery-1.11.3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+        <script src="https://www.digitalkraut.de/js/jquery.fitvids.js"></script>
+        <script src="https://www.digitalkraut.de/js/scripts.js"></script>
+    </body>
+</html>
+

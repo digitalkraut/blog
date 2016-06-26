@@ -1,0 +1,12 @@
+---
+author: "Michl"
+date: 2015-02-26T15:25:26+02:00
+description: "öffentliche und private Schlüssel?!"
+tags: []
+title: "Public-Key Kryptosystem"
+---
+<p>Bei den Schlüsseln um welche es in diesem Beitrag geht, handelt es sich nicht um reale Schlüssel, die man anfassen kann, sondern um virtuelle Schlüssel.</p>
+<p>Der Hintergedanke ist, Daten nicht mit einem einzelnen Schlüssel zu verschlüsseln, sondern diesen Schlüssel aufzuteilen. So verwendet man zum Verschlüsseln den öffentlichen Schlüssel und zum Entschlüsseln den privaten Schlüssel. So können z.B. E-Mails von jemand anderen mit einem öffentlichen Schlüssel verschlüsselt werden und nur derjenige, der den privaten Schlüssel und die korrekte Passphrase (Passwort) weiss, kann den Text der E-Mail wieder sichtbar machen. Ein solches Schlüsselpaar kann sich jeder Computerbenutzer erstellen, jedoch besteht dabei die Gefahr das die Authentizität eines anderen nie mit Sicherheit festgestellt werden kann.</p>
+<p>Eine Möglichkeit die Sicherheit der Authentizität des Anderen oder der eigenen zu erhöhen ist, den öffentlichen Schlüssel von einer dritten Partei zertifizieren zu lassen. Solche sogenannten CA (Certificate Authority) gibt es viele im Internet, die meisten verlangen aber Geld für Ihre Dienste (z.B. Verisign). Einen anderen Weg beschreitet die Zertifizierungsstelle <a href="http://www.CAcert.de">CAcert</a>. Dort können kostenlos Zertifikate erstellt werden (z.B. <a href="http://de.wikipedia.org/wiki/GNU_Privacy_Guard">GPG/PGP</a> Zertifikat, Client- und Server Zertifikat). Doch wie bekommt die Zertifizierungsstelle mit, ob man wirklich der ist, für den man sich ausgibt? Dies geschieht über sog. Assurer, also Menschen die anhand von amtlichen Dokumenten die Identität und Vertrauenswürdigkeit feststellen. Das gesamte System nennt man "Web of Trust" was ungefähr "Netz des Vertrauens" bedeutet. In diesem "Web of Trust" kann man Punkte sammeln, umso mehr Personen die eigene Identität bestätigen, umso mehr Punkte erhält man. Ab 50 Punkten kann man Zertifikate der Klasse 3 erstellen.</p>
+<p>Sobald man 100 erreicht hat, kann man selbst durch einen kleinen Test Assurer werden, darf anfangs dann aber nur wenige Punkte selbst an andere verteilen. Erst mit zunehmenden Authentizitätsprüfungen dürfen mehr Punkte vergeben werden. Ich selbst habe den Aussurer Test kürzlich bestanden und darf daher andere Personen assuren, die dies wünschen. Dazu ist ein persönliches Treffen nötig und vorher muss ein gültiger Account bei <a href="http://www.CAcert.org">www.CAcert.org</a> angelegt werden.</p>
+
