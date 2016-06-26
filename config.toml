@@ -16,6 +16,7 @@ disqusShortname = "digitalkraut"
     intro = true
     headline = "digitalkraut"
     description = "Das Glück deines Lebens hängt von der Beschaffenheit deiner Gedanken ab"
+    github = "https://github.com/digitalkraut"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
