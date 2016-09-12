@@ -22,6 +22,11 @@ disqusShortname = "digitalkraut"
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
+    name = "Rezepte"
+    url = "https://studentkittens.github.io/recipes/"
+    weight = 4
+
+[[menu.main]]
     name = "NZ Blog"
     url = "https://michlnzblog.wordpress.com/"
     weight = 3
