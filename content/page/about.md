@@ -7,7 +7,7 @@ slug: about
 Verantwortlich für Inhalt, Gestaltung und Umsetzung:
 
 Michael Kießling</br>
-München</br>
+Augsburg</br>
 webmaster@digitalkraut.de
  
 
