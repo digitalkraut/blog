@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digitalkraut</title>
-    <link>https://www.digitalkraut.de/</link>
+    <link>http://www.digitalkraut.de/</link>
     <description>Recent content on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
     <lastBuildDate>Tue, 28 Jun 2016 20:25:11 +0200</lastBuildDate>
-    <atom:link href="https://www.digitalkraut.de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.digitalkraut.de/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Eulenfunk</title>
-      <link>https://www.digitalkraut.de/2016/06/28/eulenfunk/</link>
+      <link>http://www.digitalkraut.de/2016/06/28/eulenfunk/</link>
       <pubDate>Tue, 28 Jun 2016 20:25:11 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2016/06/28/eulenfunk/</guid>
+      <guid>http://www.digitalkraut.de/2016/06/28/eulenfunk/</guid>
       <description>&lt;p&gt;WLan fähige Geräte, welche Musik abspielen, gibt es in den unterschiedlichsten Formen zu kaufen.
 Doch wie wäre es einmal nicht ins Geschäft zu gehen oder online zu bestellen, sondern sich sein
 eigenes Internetradio zu basteln? Das dachten sich auch die &lt;a href=&#34;https://github.com/studentkittens/eulenfunk&#34;&gt;Konstrukteure von Eulenfunk&lt;/a&gt;,
@@ -33,10 +33,10 @@ so ein vollfunkionsfähiges Internetradio im Eigenbau.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://www.digitalkraut.de/page/contact/</link>
+      <link>http://www.digitalkraut.de/page/contact/</link>
       <pubDate>Sun, 26 Jun 2016 13:02:31 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/page/contact/</guid>
+      <guid>http://www.digitalkraut.de/page/contact/</guid>
       <description>&lt;p&gt;Zertifizierter, öffentlicher GPG/PGP Schlüssel Michael Kießling&lt;/p&gt;
 
 &lt;p&gt;zum Versand von verschlüsselten E-mails an&lt;/br&gt;
@@ -143,10 +143,10 @@ qIk+9PCOtxtrzVVRfVEcRsBkPe/llwxFSyJH
     
     <item>
       <title></title>
-      <link>https://www.digitalkraut.de/page/about/</link>
+      <link>http://www.digitalkraut.de/page/about/</link>
       <pubDate>Sun, 26 Jun 2016 12:50:43 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/page/about/</guid>
+      <guid>http://www.digitalkraut.de/page/about/</guid>
       <description>
 
 &lt;p&gt;Verantwortlich für Inhalt, Gestaltung und Umsetzung:&lt;/p&gt;
@@ -185,17 +185,17 @@ Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt a
     
     <item>
       <title>Liberia</title>
-      <link>https://www.digitalkraut.de/2015/03/26/liberia/</link>
+      <link>http://www.digitalkraut.de/2015/03/26/liberia/</link>
       <pubDate>Thu, 26 Mar 2015 15:36:57 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2015/03/26/liberia/</guid>
+      <guid>http://www.digitalkraut.de/2015/03/26/liberia/</guid>
       <description>&lt;p&gt;Einige Wochen vor dem 11. September 2001 besuchte ich zusammen mit einer kleinen Delegation, Freunde in &lt;a href=&#34;https://de.wikipedia.org/wiki/Liberia&#34;&gt;Liberia&lt;/a&gt;. Auch heute ist das Land noch vom zurückliegenden, langjährigen Bürgerkrieg gezeichnet.&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.digitalkraut.de/img/liberia1.jpg&#34; /&gt;
+        &lt;img src=&#34;http://www.digitalkraut.de/img/liberia1.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -224,7 +224,7 @@ Meine ersten Eindrücke waren die unendlich vielen Menschen, die entlang der Lan
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.digitalkraut.de/img/liberia2.jpg&#34; /&gt;
+        &lt;img src=&#34;http://www.digitalkraut.de/img/liberia2.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -240,10 +240,10 @@ Die Menschen in Liberia brauchen unsere Hilfe, denn nach dem Ende des Bürgerkri
     
     <item>
       <title>Public-Key Kryptosystem</title>
-      <link>https://www.digitalkraut.de/2015/02/26/publicprivatekey/</link>
+      <link>http://www.digitalkraut.de/2015/02/26/publicprivatekey/</link>
       <pubDate>Thu, 26 Feb 2015 15:25:26 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2015/02/26/publicprivatekey/</guid>
+      <guid>http://www.digitalkraut.de/2015/02/26/publicprivatekey/</guid>
       <description>&lt;p&gt;Bei den Schlüsseln um welche es in diesem Beitrag geht, handelt es sich nicht um reale Schlüssel, die man anfassen kann, sondern um virtuelle Schlüssel.&lt;/p&gt;
 &lt;p&gt;Der Hintergedanke ist, Daten nicht mit einem einzelnen Schlüssel zu verschlüsseln, sondern diesen Schlüssel aufzuteilen. So verwendet man zum Verschlüsseln den öffentlichen Schlüssel und zum Entschlüsseln den privaten Schlüssel. So können z.B. E-Mails von jemand anderen mit einem öffentlichen Schlüssel verschlüsselt werden und nur derjenige, der den privaten Schlüssel und die korrekte Passphrase (Passwort) weiss, kann den Text der E-Mail wieder sichtbar machen. Ein solches Schlüsselpaar kann sich jeder Computerbenutzer erstellen, jedoch besteht dabei die Gefahr das die Authentizität eines anderen nie mit Sicherheit festgestellt werden kann.&lt;/p&gt;
 &lt;p&gt;Eine Möglichkeit die Sicherheit der Authentizität des Anderen oder der eigenen zu erhöhen ist, den öffentlichen Schlüssel von einer dritten Partei zertifizieren zu lassen. Solche sogenannten CA (Certificate Authority) gibt es viele im Internet, die meisten verlangen aber Geld für Ihre Dienste (z.B. Verisign). Einen anderen Weg beschreitet die Zertifizierungsstelle &lt;a href=&#34;http://www.CAcert.de&#34;&gt;CAcert&lt;/a&gt;. Dort können kostenlos Zertifikate erstellt werden (z.B. &lt;a href=&#34;http://de.wikipedia.org/wiki/GNU_Privacy_Guard&#34;&gt;GPG/PGP&lt;/a&gt; Zertifikat, Client- und Server Zertifikat). Doch wie bekommt die Zertifizierungsstelle mit, ob man wirklich der ist, für den man sich ausgibt? Dies geschieht über sog. Assurer, also Menschen die anhand von amtlichen Dokumenten die Identität und Vertrauenswürdigkeit feststellen. Das gesamte System nennt man &#34;Web of Trust&#34; was ungefähr &#34;Netz des Vertrauens&#34; bedeutet. In diesem &#34;Web of Trust&#34; kann man Punkte sammeln, umso mehr Personen die eigene Identität bestätigen, umso mehr Punkte erhält man. Ab 50 Punkten kann man Zertifikate der Klasse 3 erstellen.&lt;/p&gt;
@@ -253,17 +253,17 @@ Die Menschen in Liberia brauchen unsere Hilfe, denn nach dem Ende des Bürgerkri
     
     <item>
       <title>rmlint</title>
-      <link>https://www.digitalkraut.de/2014/12/14/rmlint/</link>
+      <link>http://www.digitalkraut.de/2014/12/14/rmlint/</link>
       <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2014/12/14/rmlint/</guid>
+      <guid>http://www.digitalkraut.de/2014/12/14/rmlint/</guid>
       <description>&lt;p&gt;Früher war es der berüchtigte &lt;a href=&#34;http://kamelopedia.net/wiki/Diaabend&#34;&gt;Dia-Abend&lt;/a&gt; zu dem man Freunde und Bekannte nach einer großen Reise nötigte, heutzutage sind es hingegen digitale Fotos die via Beamer oder Laptop dem mehr oder weniger interessierten Publikum zum Besten gegeben werden. Ärgerlich wenn manche Fotos dabei doppelt oder dreifach auftauchen, zumal die gesamte Runde meist auf ein schnelles Ende hofft. Diese Duplikate entstehen oft daraus, dass man aus einem Sicherheitsdenken heraus lieber ein Backup der Speicherkarte mehr anfertigt, was an sich zwar eine gute Idee ist, aber bei unorganisierten Zeitgenossen zu Chaos in der Bildersammlung führen kann.
 An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglichkeit solche Duplikate schnell und sicher zu finden. Dazu bedient sich rmlint eines neuartigen Algorithmus, welcher in der Lage ist sehr große Datenmengen in kurzer Zeit zu durchsuchen. Hierdurch hebt sich rmlint von vergleichbarer Software ab. Natürlich ist mit rmlint noch mehr möglich, so kann es außer Bildern auch jede andere Art von doppelten Dateien und Verzeichnissen auffinden und wenn gewünscht entfernen. Ebenso können beschädigte symbolische Links aufgespürt werden.&lt;/p&gt;
 
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.digitalkraut.de/img/rmlint.png&#34; /&gt;
+        &lt;img src=&#34;http://www.digitalkraut.de/img/rmlint.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -275,10 +275,10 @@ An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglic
     
     <item>
       <title>LaTeX</title>
-      <link>https://www.digitalkraut.de/2014/07/26/latex/</link>
+      <link>http://www.digitalkraut.de/2014/07/26/latex/</link>
       <pubDate>Sat, 26 Jul 2014 15:08:02 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2014/07/26/latex/</guid>
+      <guid>http://www.digitalkraut.de/2014/07/26/latex/</guid>
       <description>&lt;p&gt;Wer kennt das nicht, man möchte gerne auf die Schnelle einen Brief mit seinem Textverarbeitungsprogramm wie OpenOffice Writer oder Microsoft Word tippen - der eigentliche Inhalt wäre auch schnell getippt, doch die Formatierung des Ganzen braucht erheblich länger. Da passen die Abstände nicht, dort wurde die Nummerierung nicht richtig fortgeführt, an anderer Stelle ist einfach alles falsch aufgeteilt, man hat aber keine Idee, wie es besser aussehen könnte.&lt;/p&gt;
 
 &lt;p&gt;An dieser Stelle kommt LaTeX (gesprochen Latech) ins Spiel, ein sogenanntes Textsatzprogramm. Im Unterschied zu Standard Textverarbeitungsprogrammen wird ein Dokument am Bildschirm nicht so erstellt, dass man für die Formatierung des gesamten Inhaltes selbst zuständig ist, sondern dem Programm nur mitteilt, was für eine Art von Dokument man haben möchte. So kann man seine ganze Energie in die Erstellung des eigentlichen Inhaltes und nicht der Formatierung legen.&lt;/p&gt;
@@ -291,7 +291,7 @@ An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglic
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.digitalkraut.de/img/latex_logo.png&#34; /&gt;
+        &lt;img src=&#34;http://www.digitalkraut.de/img/latex_logo.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -306,15 +306,15 @@ Auch soll sich aus solchen Konzepten ein besserer Lesefluss ergeben, was die Aug
     
     <item>
       <title>Jabber/XMPP</title>
-      <link>https://www.digitalkraut.de/2014/06/26/jabber/</link>
+      <link>http://www.digitalkraut.de/2014/06/26/jabber/</link>
       <pubDate>Thu, 26 Jun 2014 14:25:01 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/2014/06/26/jabber/</guid>
+      <guid>http://www.digitalkraut.de/2014/06/26/jabber/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.digitalkraut.de/img/jabber_logo.png&#34; /&gt;
+        &lt;img src=&#34;http://www.digitalkraut.de/img/jabber_logo.png&#34; /&gt;
     
     
 &lt;/figure&gt;

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on digitalkraut</title>
-    <link>https://www.digitalkraut.de/page/</link>
+    <link>http://www.digitalkraut.de/page/</link>
     <description>Recent content in Pages on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
     <lastBuildDate>Sun, 26 Jun 2016 13:02:31 +0200</lastBuildDate>
-    <atom:link href="https://www.digitalkraut.de/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.digitalkraut.de/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://www.digitalkraut.de/page/contact/</link>
+      <link>http://www.digitalkraut.de/page/contact/</link>
       <pubDate>Sun, 26 Jun 2016 13:02:31 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/page/contact/</guid>
+      <guid>http://www.digitalkraut.de/page/contact/</guid>
       <description>&lt;p&gt;Zertifizierter, öffentlicher GPG/PGP Schlüssel Michael Kießling&lt;/p&gt;
 
 &lt;p&gt;zum Versand von verschlüsselten E-mails an&lt;/br&gt;
@@ -122,10 +122,10 @@ qIk+9PCOtxtrzVVRfVEcRsBkPe/llwxFSyJH
     
     <item>
       <title></title>
-      <link>https://www.digitalkraut.de/page/about/</link>
+      <link>http://www.digitalkraut.de/page/about/</link>
       <pubDate>Sun, 26 Jun 2016 12:50:43 +0200</pubDate>
       
-      <guid>https://www.digitalkraut.de/page/about/</guid>
+      <guid>http://www.digitalkraut.de/page/about/</guid>
       <description>
 
 &lt;p&gt;Verantwortlich für Inhalt, Gestaltung und Umsetzung:&lt;/p&gt;
