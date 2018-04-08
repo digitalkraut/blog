@@ -1,23 +1,44 @@
 # Ghostwriter
 
-Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](http://gohugo.io) site generator.
+Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](https://gohugo.io) site generator.
 
 ## Installation
 
 Inside the folder of your Hugo site run:
 
-    $ mkdir themes
-    $ cd themes
-    $ git clone https://github.com/jbub/ghostwriter
+```bash
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/jbub/ghostwriter
+```
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
+
+## Development
+
+After installing the theme you need to install javascript dependencies. You can use 
+`npm` or `yarn` to install them from `package.json`. We are using `webpack` to build
+and package styles. In order to develop with realtime reloading in the browser you can 
+use this powerful combo:
+
+```bash
+hugo server
+yarn run watch
+```
+
+To update theme styles edit the `styles/style.scss` file. You can then either use the `watch` command
+or run `build` to compile the styles:
+
+```bash
+yarn run build
+```
 
 ## Example config.toml
 
 To customize your theme you can use following params:
 
 ```toml
-baseurl = "http://example.com/"
+baseurl = "https://example.com/"
 title = "mytitle"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -37,10 +58,20 @@ disqusShortname = "XXX"
     headline = "My headline"
     description = "My description"
     github = "https://github.com/XXX"
+    gitlab = "https://gitlab.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
     gplus = "https://google.com/+XXX"
     twitter = "https://twitter.com/XXX"
-    stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
@@ -65,3 +96,6 @@ disqusShortname = "XXX"
     url = "/page/about/"
     weight = 4
 ```
+
+You can also inject arbitrary HTML into `<head>` simply by overriding the `extra-in-head.html`
+partial, which is meant for that purpose.

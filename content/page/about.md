@@ -2,6 +2,7 @@
 author: "Michl"
 date: 2016-06-26T12:50:43+02:00
 slug: about
+type: special
 ---
 
 Verantwortlich für Inhalt, Gestaltung und Umsetzung:

@@ -17,4 +17,4 @@ go get -u -v github.com/spf13/hugo
 
 ## Docs
 
-http://godoc.org/github.com/spf13/hugo
+https://godoc.org/github.com/spf13/hugo
