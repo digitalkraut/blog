@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
-    <lastBuildDate>Tue, 28 Jun 2016 20:25:11 +0200</lastBuildDate>
-    <atom:link href="http://www.digitalkraut.de/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Apr 2018 16:19:51 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.digitalkraut.de/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Signal</title>
+      <link>http://www.digitalkraut.de/2018/04/08/signal/</link>
+      <pubDate>Sun, 08 Apr 2018 16:19:51 +0200</pubDate>
+      
+      <guid>http://www.digitalkraut.de/2018/04/08/signal/</guid>
+      <description>Telefonieren ist out seit einigen Jahren, um mit anderen in Kontakt zu treten und zu bleiben. Heutzusage schreibt man sich Kurznachrichten, anfangs waren dies hauptsächlich SMS. Später kam das Chatten mit Hilfe von Instant Messengern wie ICQ oder Jabber/XMPP am Computer hinzu. Seit Aufkommen von Smartphones geschieht die Kommunikation zunehmends mit Instant Messaging Apps, am bekanntesten ist hier wohl der Platzhirsch Whatsapp. Konnte man bei der SMS nur Text senden in begrenzten 160 pro SMS, so ist mit einem Instant Messenger am Smartphone auch das Versenden von Bildern, Videos und Sprache möglich.</description>
+    </item>
     
     <item>
       <title>Eulenfunk</title>
@@ -16,19 +27,7 @@
       <pubDate>Tue, 28 Jun 2016 20:25:11 +0200</pubDate>
       
       <guid>http://www.digitalkraut.de/2016/06/28/eulenfunk/</guid>
-      <description>&lt;p&gt;WLan fähige Geräte, welche Musik abspielen, gibt es in den unterschiedlichsten Formen zu kaufen.
-Doch wie wäre es einmal nicht ins Geschäft zu gehen oder online zu bestellen, sondern sich sein
-eigenes Internetradio zu basteln? Das dachten sich auch die &lt;a href=&#34;https://github.com/studentkittens/eulenfunk&#34;&gt;Konstrukteure von Eulenfunk&lt;/a&gt;,
-einem Internetradio der Marke Eigenbau. Sie nahmen ein ausgedientes Küchenradio, entkernten dies und setzen vorne eine Plexiglasplatte
-ein. Nun mußte die Wunderbox noch mit Leben gefüllt werden, so wurde kurzerhand ein Raspberry Pi zur Hilfe genommen,
-Leuchtdioten und Display eingebaut und verlötet. Zum Schluss wurde noch &lt;a href=&#34;https://github.com/studentkittens/eulenfunk&#34;&gt;Software&lt;/a&gt; geschrieben, damit ein Menü auf dem Display angezeigt und mit Drehknöpfen in diesem navigiert werden kann. Innerhalb von drei Wochen entstand
-so ein vollfunkionsfähiges Internetradio im Eigenbau.&lt;/p&gt;
-
-&lt;p&gt;Details findet ihr in der zugrundeliegenden &lt;a href=&#34;https://studentkittens.github.io/eulenfunk/eulenfunk-doc.pdf&#34;&gt;Projektarbeit&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/171646691&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/171646691&#34;&gt;&lt;em&gt;Eulenfunk&lt;/em&gt;&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user39434086&#34;&gt;nanamii&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>WLan fähige Geräte, welche Musik abspielen, gibt es in den unterschiedlichsten Formen zu kaufen. Doch wie wäre es einmal nicht ins Geschäft zu gehen oder online zu bestellen, sondern sich sein eigenes Internetradio zu basteln? Das dachten sich auch die Konstrukteure von Eulenfunk, einem Internetradio der Marke Eigenbau. Sie nahmen ein ausgedientes Küchenradio, entkernten dies und setzen vorne eine Plexiglasplatte ein. Nun mußte die Wunderbox noch mit Leben gefüllt werden, so wurde kurzerhand ein Raspberry Pi zur Hilfe genommen, Leuchtdioten und Display eingebaut und verlötet.</description>
     </item>
     
     <item>
@@ -37,20 +36,7 @@ so ein vollfunkionsfähiges Internetradio im Eigenbau.&lt;/p&gt;
       <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
       
       <guid>http://www.digitalkraut.de/2014/12/14/rmlint/</guid>
-      <description>&lt;p&gt;Früher war es der berüchtigte &lt;a href=&#34;http://kamelopedia.net/wiki/Diaabend&#34;&gt;Dia-Abend&lt;/a&gt; zu dem man Freunde und Bekannte nach einer großen Reise nötigte, heutzutage sind es hingegen digitale Fotos die via Beamer oder Laptop dem mehr oder weniger interessierten Publikum zum Besten gegeben werden. Ärgerlich wenn manche Fotos dabei doppelt oder dreifach auftauchen, zumal die gesamte Runde meist auf ein schnelles Ende hofft. Diese Duplikate entstehen oft daraus, dass man aus einem Sicherheitsdenken heraus lieber ein Backup der Speicherkarte mehr anfertigt, was an sich zwar eine gute Idee ist, aber bei unorganisierten Zeitgenossen zu Chaos in der Bildersammlung führen kann.
-An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglichkeit solche Duplikate schnell und sicher zu finden. Dazu bedient sich rmlint eines neuartigen Algorithmus, welcher in der Lage ist sehr große Datenmengen in kurzer Zeit zu durchsuchen. Hierdurch hebt sich rmlint von vergleichbarer Software ab. Natürlich ist mit rmlint noch mehr möglich, so kann es außer Bildern auch jede andere Art von doppelten Dateien und Verzeichnissen auffinden und wenn gewünscht entfernen. Ebenso können beschädigte symbolische Links aufgespürt werden.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.digitalkraut.de/img/rmlint.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Bei rmlint handelt es sich um freie Software, welche unter GPLv3 veröffentlicht wurde. Die Seite zum Projekt ist zu finden unter &lt;a href=&#34;https://github.com/sahib/rmlint/tree/develop&#34;&gt;rmlint&lt;/a&gt;. Es ist zur Zeit für Linux verfügbar, für andere Plattformen wie BSD und Darwin werden noch Mitstreiter gesucht.&lt;/p&gt;
-</description>
+      <description>Früher war es der berüchtigte Dia-Abend zu dem man Freunde und Bekannte nach einer großen Reise nötigte, heutzutage sind es hingegen digitale Fotos die via Beamer oder Laptop dem mehr oder weniger interessierten Publikum zum Besten gegeben werden. Ärgerlich wenn manche Fotos dabei doppelt oder dreifach auftauchen, zumal die gesamte Runde meist auf ein schnelles Ende hofft. Diese Duplikate entstehen oft daraus, dass man aus einem Sicherheitsdenken heraus lieber ein Backup der Speicherkarte mehr anfertigt, was an sich zwar eine gute Idee ist, aber bei unorganisierten Zeitgenossen zu Chaos in der Bildersammlung führen kann.</description>
     </item>
     
     <item>
@@ -59,23 +45,7 @@ An dieser Stelle kommt nun rmlint ins Spiel. Mit diesem Tool besteht die Möglic
       <pubDate>Thu, 26 Jun 2014 14:25:01 +0200</pubDate>
       
       <guid>http://www.digitalkraut.de/2014/06/26/jabber/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.digitalkraut.de/img/jabber_logo.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Wer ließt gerne das Kleingedruckte in den AGBs (Allgemeine Geschäftsbedingungen) von Software? Wohl die Wenigsten von uns. Macht man sich trotzdem einmal die Mühe, um bestimmte Passagen zu finden, stößt man dabei schnell auf sehr unliebsame Dinge, die einen ansonsten nicht bewußt gewesen wären. Beim dem in Deutschland weit verbreiteten ICQ zum Beispiel findet man eine Passage, dass die Urheberrechte sämtlicher über ICQ übertragener Daten an die Firma geht,  der ICQ gerade gehört und diese damit tun können was sie wollen. Vielen mag egal sein, wer mit liest, aber Alle die dabei ein komisches Gefühl haben und auf ein freies,  Instant Messaging Protokoll Wert legen, sollten einen Blick auf Jabber/XMPP werfen.&lt;/p&gt;
-
-&lt;p&gt;Einen Jabber/XMPP Account kann man sich schnell und einfach anlegen. Neben einer Vielzahl von Anbietern gibt es auch einige große, sehr bekannte Jabber Server z.B. der des Chaos Computer Club (ccc).&lt;/p&gt;
-
-&lt;p&gt;Ebenfalls möglich ist bei Jabber/XMPP die sogenannte &lt;a href=&#34;http://de.wikipedia.org/wiki/Off-the-Record_Messaging&#34;&gt;OTR (Off-the-Record Messaging)&lt;/a&gt; Verschlüsslung, die mit Plugins z.B. für den Multimessenger Pidgin einfach und schnell eingerichtet werden können. Hierdurch werden die gesendeten Daten anhand von privaten und öffentlichen Schlüsseln verschlüsselt.&lt;/p&gt;
-</description>
+      <description>Wer ließt gerne das Kleingedruckte in den AGBs (Allgemeine Geschäftsbedingungen) von Software? Wohl die Wenigsten von uns. Macht man sich trotzdem einmal die Mühe, um bestimmte Passagen zu finden, stößt man dabei schnell auf sehr unliebsame Dinge, die einen ansonsten nicht bewußt gewesen wären. Beim dem in Deutschland weit verbreiteten ICQ zum Beispiel findet man eine Passage, dass die Urheberrechte sämtlicher über ICQ übertragener Daten an die Firma geht, der ICQ gerade gehört und diese damit tun können was sie wollen.</description>
     </item>
     
   </channel>
