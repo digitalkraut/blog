@@ -1,4 +1,4 @@
-baseurl = "http://www.digitalkraut.de/"
+baseurl = "https://www.digitalkraut.de/"
 title = "digitalkraut"
 theme = "ghostwriter"
 languageCode = "de-DE"

@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on digitalkraut</title>
-    <link>http://www.digitalkraut.de/tags/</link>
+    <link>https://www.digitalkraut.de/tags/</link>
     <description>Recent content in Tags on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 16:19:51 +0200</lastBuildDate>
     
-	<atom:link href="http://www.digitalkraut.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.digitalkraut.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apps</title>
-      <link>http://www.digitalkraut.de/tags/apps/</link>
+      <link>https://www.digitalkraut.de/tags/apps/</link>
       <pubDate>Sun, 08 Apr 2018 16:19:51 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/tags/apps/</guid>
+      <guid>https://www.digitalkraut.de/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instant Messaging</title>
-      <link>http://www.digitalkraut.de/tags/instant-messaging/</link>
+      <link>https://www.digitalkraut.de/tags/instant-messaging/</link>
       <pubDate>Thu, 26 Jun 2014 14:25:01 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/tags/instant-messaging/</guid>
+      <guid>https://www.digitalkraut.de/tags/instant-messaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opensource</title>
-      <link>http://www.digitalkraut.de/tags/opensource/</link>
+      <link>https://www.digitalkraut.de/tags/opensource/</link>
       <pubDate>Sun, 08 Apr 2018 16:19:51 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/tags/opensource/</guid>
+      <guid>https://www.digitalkraut.de/tags/opensource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reise</title>
-      <link>http://www.digitalkraut.de/tags/reise/</link>
+      <link>https://www.digitalkraut.de/tags/reise/</link>
       <pubDate>Thu, 26 Mar 2015 15:36:57 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/tags/reise/</guid>
+      <guid>https://www.digitalkraut.de/tags/reise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>http://www.digitalkraut.de/tags/tools/</link>
+      <link>https://www.digitalkraut.de/tags/tools/</link>
       <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/tags/tools/</guid>
+      <guid>https://www.digitalkraut.de/tags/tools/</guid>
       <description></description>
     </item>
     

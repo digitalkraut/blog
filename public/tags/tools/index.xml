@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on digitalkraut</title>
-    <link>http://www.digitalkraut.de/tags/tools/</link>
+    <link>https://www.digitalkraut.de/tags/tools/</link>
     <description>Recent content in Tools on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
     <lastBuildDate>Sun, 14 Dec 2014 14:56:51 +0200</lastBuildDate>
     
-	<atom:link href="http://www.digitalkraut.de/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.digitalkraut.de/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rmlint</title>
-      <link>http://www.digitalkraut.de/2014/12/14/rmlint/</link>
+      <link>https://www.digitalkraut.de/2014/12/14/rmlint/</link>
       <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/2014/12/14/rmlint/</guid>
+      <guid>https://www.digitalkraut.de/2014/12/14/rmlint/</guid>
       <description>Früher war es der berüchtigte Dia-Abend zu dem man Freunde und Bekannte nach einer großen Reise nötigte, heutzutage sind es hingegen digitale Fotos die via Beamer oder Laptop dem mehr oder weniger interessierten Publikum zum Besten gegeben werden. Ärgerlich wenn manche Fotos dabei doppelt oder dreifach auftauchen, zumal die gesamte Runde meist auf ein schnelles Ende hofft. Diese Duplikate entstehen oft daraus, dass man aus einem Sicherheitsdenken heraus lieber ein Backup der Speicherkarte mehr anfertigt, was an sich zwar eine gute Idee ist, aber bei unorganisierten Zeitgenossen zu Chaos in der Bildersammlung führen kann.</description>
     </item>
     

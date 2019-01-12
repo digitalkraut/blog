@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on digitalkraut</title>
-    <link>http://www.digitalkraut.de/tags/apps/</link>
+    <link>https://www.digitalkraut.de/tags/apps/</link>
     <description>Recent content in Apps on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <copyright>Michael Kiessling</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 16:19:51 +0200</lastBuildDate>
     
-	<atom:link href="http://www.digitalkraut.de/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.digitalkraut.de/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Signal</title>
-      <link>http://www.digitalkraut.de/2018/04/08/signal/</link>
+      <link>https://www.digitalkraut.de/2018/04/08/signal/</link>
       <pubDate>Sun, 08 Apr 2018 16:19:51 +0200</pubDate>
       
-      <guid>http://www.digitalkraut.de/2018/04/08/signal/</guid>
+      <guid>https://www.digitalkraut.de/2018/04/08/signal/</guid>
       <description>Telefonieren ist out seit einigen Jahren, um mit anderen in Kontakt zu treten und zu bleiben. Heutzutage schreibt man Kurznachrichten, anfangs waren dies hauptsächlich SMS. Später kam das Chatten mit Hilfe von Instant Messengern wie ICQ oder Jabber/XMPP am Computer hinzu. Seit Aufkommen von Smartphones geschieht die Kommunikation zunehmends mit Instant Messaging Apps, am bekanntesten ist hier wohl der Platzhirsch Whatsapp. Konnte man bei der SMS nur Text senden in begrenzten 160 pro SMS, so ist mit einem Instant Messenger am Smartphone auch das Versenden von Bildern, Videos und Sprache möglich.</description>
     </item>
     
