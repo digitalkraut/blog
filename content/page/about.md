@@ -7,7 +7,7 @@ type: special
 
 Verantwortlich für Inhalt, Gestaltung und Umsetzung:
 
-Michael Kießling</br>
+Michael Pahl</br>
 Augsburg</br>
 webmaster@digitalkraut.de
  

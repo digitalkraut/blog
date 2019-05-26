@@ -6,7 +6,7 @@
     <description>Recent content in Tags on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <copyright>Michael Kiessling</copyright>
+    <copyright>Michael Pahl</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 16:19:51 +0200</lastBuildDate>
     
 	<atom:link href="https://www.digitalkraut.de/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,16 +22,7 @@
     </item>
     
     <item>
-      <title>Instant Messaging</title>
-      <link>https://www.digitalkraut.de/tags/instant-messaging/</link>
-      <pubDate>Thu, 26 Jun 2014 14:25:01 +0200</pubDate>
-      
-      <guid>https://www.digitalkraut.de/tags/instant-messaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opensource</title>
+      <title>OpenSource</title>
       <link>https://www.digitalkraut.de/tags/opensource/</link>
       <pubDate>Sun, 08 Apr 2018 16:19:51 +0200</pubDate>
       
@@ -54,6 +45,15 @@
       <pubDate>Sun, 14 Dec 2014 14:56:51 +0200</pubDate>
       
       <guid>https://www.digitalkraut.de/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant Messaging</title>
+      <link>https://www.digitalkraut.de/tags/instant-messaging/</link>
+      <pubDate>Thu, 26 Jun 2014 14:25:01 +0200</pubDate>
+      
+      <guid>https://www.digitalkraut.de/tags/instant-messaging/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opensource on digitalkraut</title>
+    <title>OpenSource on digitalkraut</title>
     <link>https://www.digitalkraut.de/tags/opensource/</link>
-    <description>Recent content in Opensource on digitalkraut</description>
+    <description>Recent content in OpenSource on digitalkraut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <copyright>Michael Kiessling</copyright>
+    <copyright>Michael Pahl</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 16:19:51 +0200</lastBuildDate>
     
 	<atom:link href="https://www.digitalkraut.de/tags/opensource/index.xml" rel="self" type="application/rss+xml" />

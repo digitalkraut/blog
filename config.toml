@@ -2,7 +2,7 @@ baseurl = "https://www.digitalkraut.de/"
 title = "digitalkraut"
 theme = "ghostwriter"
 languageCode = "de-DE"
-copyright = "Michael Kiessling"
+copyright = "Michael Pahl"
 disqusShortname = "digitalkraut"
 
 [Author]

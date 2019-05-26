@@ -3,7 +3,7 @@ author: "Michl"
 date: 2016-06-26T13:02:31+02:00
 ---
 
-Zertifizierter, öffentlicher GPG/PGP Schlüssel Michael Kießling
+Zertifizierter, öffentlicher GPG/PGP Schlüssel Michael Pahl
 
 zum Versand von verschlüsselten E-mails an</br>
 michael@digitalkraut.de
